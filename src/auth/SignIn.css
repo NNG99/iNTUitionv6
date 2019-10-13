@@ -1,0 +1,47 @@
+body {
+  background: linear-gradient(#ff6699 0%, #99ccff 100%) fixed;
+  height: 100%;
+}
+.container {
+  position: relative;
+  margin: 200px auto;
+  padding: 20px 20px 20px;
+  width: 310px;
+  background-image: url("https://cdn.blackmilkclothing.com/media/wysiwyg/Wallpapers/PhoneWallpapers_FloralCoral.jpg");
+  border-radius: 3px;
+  -webkit-box-shadow: 0 0 200px rgba(255, 255, 255, 0.5),
+    0 1px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 200px rgba(255, 255, 255, 0.5), 0 1px 2px rgba(0, 0, 0, 0.3);
+  margin-top:-100px;
+}
+.input-text {
+  width: 278px;
+}
+.container h1 {
+  margin: -20px -20px 21px;
+  line-height: 40px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #555;
+  text-align: center;
+  text-shadow: 0 1px white;
+  background: #f3f3f3;
+  border-bottom: 1px solid #cfcfcf;
+  border-radius: 3px 3px 0 0;
+  background-image: -webkit-linear-gradient(top, whiteffd, #eef2f5);
+  background-image: -moz-linear-gradient(top, whiteffd, #eef2f5);
+  background-image: -o-linear-gradient(top, whiteffd, #eef2f5);
+  background-image: linear-gradient(to bottom, whiteffd, #eef2f5);
+  -webkit-box-shadow: 0 1px whitesmoke;
+  box-shadow: 0 1px whitesmoke;
+}
+.logo {
+  padding-left: 457px;
+  margin-top: 100px;
+  margin-bottom: -100px;
+}
+.stupidnatashaa{
+  padding-left:1000px;
+  margin-bottom:-300px;
+  margin-top:50px;
+}
